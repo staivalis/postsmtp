@@ -1,0 +1,13 @@
+.venv/
+venv/
+.venv-postsmtp/
+
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+dist/
+build/
+*.egg-info/
+.coverage
+htmlcov/
